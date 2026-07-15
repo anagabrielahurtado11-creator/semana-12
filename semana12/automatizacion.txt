@@ -1,0 +1,12 @@
+ automatizacion.txt
+
+1. Qué evento activa la automatización:
+   La automatización se activa cuando una causa alcanza el número mínimo de apoyos requerido en la plataforma.
+
+2. Qué mensaje se envía:
+   El sistema envía un mensaje automático al grupo de Telegram que dice:
+   "¡Nueva petición lista! La causa 'Nombre de la causa' ya alcanzó 100 apoyos. El documento PDF ya fue generado y está disponible para descargar."
+
+3. Qué información no debe enviarse por seguridad:
+   No se deben enviar datos personales de los ciudadanos como correo electrónico, número de teléfono, dirección o número de identificación. 
+   Solo se debe enviar el nombre de la causa, la cantidad de apoyos y el enlace al PDF.
