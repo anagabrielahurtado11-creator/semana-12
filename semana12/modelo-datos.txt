@@ -1,0 +1,19 @@
+ modelo-datos.txt
+
+Entidad: Causa
+- id: Identificador único de la causa
+- titulo: Nombre de la causa
+- descripcion: Explicación de la causa
+- fecha_creacion: Fecha en que se creó la causa
+- estado: Activa, Cerrada, Enviada
+
+Entidad: Apoyo
+- id: Identificador único del apoyo
+- id_causa: ID de la causa que se está apoyando
+- nombre_ciudadano: Nombre de quien apoya
+- email: Correo del ciudadano
+- fecha_apoyo: Fecha en que se registró el apoyo
+
+Relación:
+Una Causa puede tener muchos Apoyos.
+Un Apoyo pertenece solo a una Causa.
