@@ -1,0 +1,9 @@
+ flujo-sistema.txt
+
+
+1. Un ciudadano ingresa a la plataforma y crea una nueva causa, escribiendo un título y una descripción del problema.
+2. El sistema guarda la causa en la base de datos y la hace visible para otros usuarios.
+3. Otros ciudadanos entran a la plataforma, leen las causas activas y deciden apoyar la que les interesa con 1 clic.
+4. El sistema registra cada apoyo, guarda el nombre del ciudadano y actualiza el contador de firmas de esa causa.
+5. El PDF generado puede ser descargado y enviado a las autoridades correspondientes para su revisión.
+6. Cuando la causa alcanza el número de apoyos requerido, el sistema genera automáticamente un documento PDF con la petición formal.
