@@ -1,3 +1,5 @@
+ reflexion-semana12.txt
+
 Durante el curso aprendí que la tecnología puede ser una herramienta clave para fortalecer la participación ciudadana. 
 Con plataformas simples como "Petición en 3 Clics" las comunidades pueden organizarse y hacer visibles sus necesidades de forma rápida.
 Aprendí que automatizar procesos con herramientas como n8n o Telegram ayuda a mantener informada a la gente sin depender de reuniones presenciales.
